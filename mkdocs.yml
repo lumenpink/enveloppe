@@ -1,7 +1,7 @@
-site_name: $site_name # Change this to your site name
-site_description: $site_description
-site_url: $site_url # Change this to your site URL
-site_author: $site_author
+site_name: Caleidoscópio Conflorescência # Change this to your site name
+site_description: Coleção Caótica de Conceitos, Conteúdos e Concepções 
+site_url: https://jd.2lp.in # Change this to your site URL
+site_author: Lumen
 
 theme:
     name: 'material'
@@ -11,7 +11,7 @@ theme:
     font:
         text: Karla
         code: Ubuntu Mono
-    language: $language
+    language: pt-BR
     palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
