@@ -6,7 +6,7 @@ flowerbed:
   - geral
 importance: "Trivial "
 maturity: sprout
-modified: 2025-02-17T17:58:30-03:00
+modified: 2025-02-17T18:48:52-03:00
 tags: []
 ---
 
@@ -18,7 +18,7 @@ Hoje, em tempos de pocket e webmails, isso parece um sonho distante.
 
 Então a ideia é jogar essa produção para o servidor #SMTP e isolar o conteúdo do #e-mail, jogar em um HTML e encaminhar para o destinatário. Simples, belo e moral.
 
-Estou pensando em montar um Milter para isso.
+Estou pensando em montar um Milter para isso. Também penso em usar o #MJML como gerados do template.
 
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://lloydrochester.com/post/unix/process-mail-script-postfix/" target="_blank">
 	<div class="rich-link-image-container">
